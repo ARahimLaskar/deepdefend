@@ -1,10 +1,10 @@
 # Getting Started Locally 
 
 // install node_modules
-npm install
+<span>npm install</span>
 
 // run locally
-npm run start
+<span>npm run start</span>
 
 # Deployed link : https://arl-deepdefend.netlify.app/
 
